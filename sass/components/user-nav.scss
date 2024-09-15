@@ -1,9 +1,14 @@
+.user-nav {
+    background-color: green;
+
+}
+
 .user-nav__icon-box {}
 
 .user-nav__icon {
     height: 2.25rem;
     width: 2.25rem;
-
+    fill: var(--color-grey-dark-3)
 }
 
 .user-nav__notification {}
